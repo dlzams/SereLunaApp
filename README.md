@@ -15,3 +15,5 @@
 (CC) C006D4KY0368 – Marcelino Kelvin –  Brawijaya University.  
 (MD) A295D4KY3707 – Muhammad Admiral – Universitas Pembangunan Nasional Veteran Jakarta.  
 (MD) A295D4KY4185– Muhammad Farobby Mumtaz – Universitas Pembangunan Nasional Veteran Jakarta.  
+
+Project Brief Document: https://drive.google.com/file/d/1mzp30pc4zQN3WnGLFwJOO5yRFxoByiGr/view?usp=sharing
